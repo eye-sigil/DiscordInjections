@@ -22,6 +22,8 @@ Need help installing? Want to give a suggestion? Want to just chat? I'm using DT
 
 ## Installation
 
+_NOTE: You must have Node.js/`npm` installed. To get started, see [this site](https://www.npmjs.com/get-npm)._
+
 1. Go to the directory you would like to install this module in
 
 2. Download the files
